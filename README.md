@@ -1,6 +1,5 @@
 # Recognizing-Handwritten-Digits-with-scikit-learn
 
-.. _digits_dataset:
 
 Optical recognition of handwritten digits dataset
 --------------------------------------------------
